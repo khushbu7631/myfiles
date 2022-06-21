@@ -46,4 +46,6 @@ GitHub is the largest host of source code in the world, and has been owned by Mi
 In this tutorial, we will focus on using Git with GitHub.
 
 Repository in Git 
-git init ---> command
+git init ---> command...
+git
+git

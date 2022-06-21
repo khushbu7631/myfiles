@@ -13,5 +13,9 @@ Adding commits keep track of our progress and changes as we work. Git considers 
 When we commit, we should always include a message.
 
 By adding clear messages to each commit, it is easy for yourself (and others) to see what has changed and when....
+<<<<<<< HEAD
 that all...
 hiii..
+=======
+that all...
+>>>>>>> mybranch

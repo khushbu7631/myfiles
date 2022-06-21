@@ -33,6 +33,8 @@ Shift focus to GitHubGitHub
 Shift focus to BitbucketBitbucket
 Shift focus to GitLabGitLab
 Why Git?
+
+git is version controller...
 Over 70% of developers use Git!
 Developers can work together from anywhere in the world.
 Developers can see the full history of the project.
